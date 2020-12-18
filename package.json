@@ -1,5 +1,5 @@
 {
-   "name": "timer-xx",
+   "name": "@dsw/timer-xx",
    "version": "1.0.0",
    "description": "Calculate elapsed time in sec, ms, us, ns",
    "keywords": [
